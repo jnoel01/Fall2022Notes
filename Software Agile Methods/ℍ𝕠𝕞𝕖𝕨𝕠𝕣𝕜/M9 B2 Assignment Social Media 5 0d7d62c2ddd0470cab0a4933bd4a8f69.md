@@ -1,0 +1,17 @@
+# M9.B2: Assignment: Social Media 5
+
+`Once each month (a total of six times across the semester), you must identify and share an article on something relevant to the course; e.g., Agile Methods, Scrum, Extreme Programming, Continuous Integration, or DevOps. You may choose any relevant article from any relevant site.`
+
+`Include the following in the document of your submission:`
+
+1. `URL: The URL of the article`
+2. `Description: A one-paragraph synopsis of the article, including conclusions. You must describe the article in your own words. Don't cut and paste from the article.`
+3. `Recommendation: Do you recommend this article? Why?`
+
+URL: [https://www.scrum.org/resources/blog/nine-things-do-your-sprint-planning](https://www.scrum.org/resources/blog/nine-things-do-your-sprint-planning)
+
+[Nine things to do in your Sprint Planning](https://www.scrum.org/resources/blog/nine-things-do-your-sprint-planning)
+
+          This article discussed best practices during sprint planning to have the most effective session. Sprint planning is the process in Scrum that kicks off the sprint. Sprint planning defines what work can be completed during the sprint, how it will be completed and the importance of the tasks that are being completed. The product owner and development team attend these meetings to deliver to a goal that they set. In the article the author, Sander Dur, emphasizes that the maximum Sprint Planning timebox for a full month’s Sprint is eight hours and as well for a two-week sprint, just that in a two week Sprint typically not all eight hours is needed. Dur discusses seven tips to help make the Sprint Planning time most effective, including using feedback coming out of the Sprint Review, reassessing any remaining work from the last Sprint, using the timebox to refine product backlog items, inviting subject matter experts, relating the objective to product goals, planning improvement items coming out of the Sprint Retrospective and identifying dependencies. Each of the tips hold great importance; for example *****truly***** taking into account what was done during Sprint Review is important because if a development team just acknowledges the suggestions but doesn’t make any action items to better the suggestions then Sprint Review was just useless. Reassessing remaining work from last Sprint is also important, getting vague answers such as “I’m almost done”, is not a specific enough answer and could lead to snowballing of undone work. 
+
+          I would recommend this article to any development team because often times Sprint Planning that I have been apart of simply consisted of pulling items from a backlog and identifying and blockers then moving on. My Sprint Planning meetings normally only lasted an hour or two and we never reassessed any suggestions that were made during Sprint Review, which is important to make the most effective team. I think the part of the article that I would especially recommend to developers is identifying dependencies during Sprint Planning, this way any potential new dependencies don’t cause slow reaction which ultimately cause a delay in the project completion. Overall, the article was very insightful and I would recommend it.
