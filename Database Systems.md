@@ -1,0 +1,5 @@
+# Database Systems
+
+[𝒩𝑜𝓉𝑒𝓈](Database%20Systems%20953013dfc81c40108b4c2c28cc306b06/%F0%9D%92%A9%F0%9D%91%9C%F0%9D%93%89%F0%9D%91%92%F0%9D%93%88%205751fadbfb924762b2b4a765f089aa95.md)
+
+[HW2](Database%20Systems%20953013dfc81c40108b4c2c28cc306b06/HW2%202b801df164434b098a1b9f7c425b2ee9.md)
